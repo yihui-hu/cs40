@@ -4,21 +4,21 @@
 [submodule "iii"]
 	path = iii
 	url = https://github.com/yihui-hu/cs40-iii
-[submodule "profiling"]
-	path = profiling
-	url = https://github.com/yihui-hu/cs40-profiling
-[submodule "um"]
-	path = um
-	url = https://github.com/yihui-hu/cs40-um
-[submodule "bomb"]
-	path = bomb
-	url = https://github.com/yihui-hu/cs40-bomb
-[submodule "arith"]
-	path = arith
-	url = https://github.com/yihui-hu/cs40-arith
-[submodule "asmcoding"]
-	path = asmcoding
-	url = https://github.com/yihui-hu/cs40-asmcoding
 [submodule "locality"]
 	path = locality
 	url = https://github.com/yihui-hu/cs40-locality
+[submodule "arith"]
+	path = arith
+	url = https://github.com/yihui-hu/cs40-arith
+[submodule "bomb"]
+	path = bomb
+	url = https://github.com/yihui-hu/cs40-bomb
+[submodule "um"]
+	path = um
+	url = https://github.com/yihui-hu/cs40-um
+[submodule "profiling"]
+	path = profiling
+	url = https://github.com/yihui-hu/cs40-profiling
+[submodule "asmcoding"]
+	path = asmcoding
+	url = https://github.com/yihui-hu/cs40-asmcoding
